@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "344700424243",
+    "project_id": "attendance-d941e",
+    "storage_bucket": "attendance-d941e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344700424243:android:6792e67193351ae42f5346",
+        "android_client_info": {
+          "package_name": "com.example.blescanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3_HPlwwTFPbOk-5-tvGVIRb5rcTh-kZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344700424243:android:2c36fa10fbccfd782f5346",
+        "android_client_info": {
+          "package_name": "com.example.bluetoothbroadcast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3_HPlwwTFPbOk-5-tvGVIRb5rcTh-kZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344700424243:android:727c983bbbcc75652f5346",
+        "android_client_info": {
+          "package_name": "com.yourbusiness.bleteacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3_HPlwwTFPbOk-5-tvGVIRb5rcTh-kZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
